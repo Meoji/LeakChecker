@@ -4,5 +4,5 @@ Check if your password has been compromised or used by another user on the inter
 # Usage:
 
 ```
-python leakchecker.py
+python checker.py
 ```
